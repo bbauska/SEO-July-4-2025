@@ -171,7 +171,7 @@ re-watch different parts during their viewing experience.</p>
   </li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2>Thumbnailes</h2>
+<h2>Thumbnails</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A <a href="https://support.google.com/youtube/answer/72431" target="_blank" 
 rel="noopenner noreferrer">thumbnail</a> is the cover photo that represents your 
